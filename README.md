@@ -1,5 +1,6 @@
 ## Hi there 😊 My Name's Md. Abunayem Mandol.
 ### Recently I Have Completed Diploma In Engineering Computer Science.
+Working in C#, ASP.NET WEB FORM, MVC, Web API, AJAX, Entity Framework, .NET CORE
 
 <!--
 **mdabunayemmandol/mdabunayemmandol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
